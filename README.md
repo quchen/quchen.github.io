@@ -60,7 +60,8 @@ master thesis on non-equilibrium thermodynamics, where I studied spontaneous
 decreases of entropy, and entropy production in nonequilibrium systems.
 
 On my way, I developed an interest in pure mathematics, in particular in the
-field of differential geometry.
+field of differential geometry at the time. There interest is still there, but
+the mathematical domain has shifted a great amount to logic and type theory.
 
 ## No formal education: Programming and computer science
 
@@ -93,7 +94,7 @@ problems from different domains of computer science intersect in their creation.
 I’ve found many of the attained skills immensely useful in other domains, and
 even other programming languages.
 
-### Other languages
+### Programming languages
 
 I have seen many different programming languages, used some of them, and a few
 extensively.
@@ -112,17 +113,25 @@ have great disrespect for anyone evangelizing it.
 I find the idea of failing fast and hard behind **Erlang/Elixir** very
 interesting, and would like to learn more about it.
 
-I think **Rust** is an upgrade to the mess that **C++** is, but unfortunately
-its type system is a huge price to pay. Syntax-wise it’s atrocious, but I’ve
-gotten used to C++ at one point, so I’m sure I’d be able to get used to Rust as
-well. It does combine many compelling features, so I’ve given it a couple of
-(superficial) shots already.
+I think **Rust** is an upgrade to the mess that **C++** is (the latter I’ve also
+used a lot), but unfortunately its type system is a huge price to pay.
+Syntax-wise it’s atrocious, but I’ve gotten used to C++ at one point, so I’m
+sure I’d be able to get used to Rust as well. It does combine many compelling
+features, so I’ve given it a couple of (superficial) shots already.
 
 I don’t really have an opinion about **Javascript**; given the original design
 goals, it’s a remarkably good language. The idea behind Node.js’ asynchronicity
 using callbacks (on the program level) is completely idiotic. The syntax is
 average (i.e. bad), but I found Coffeescript to be a very much readable dialect,
 although it hinders debugging a great amount.
+
+**Mathematica** is an amazing tool for data science (and a terrible programming
+language). It’s really a shame it’s closed source and proprietary, but it would
+probably be unsustainable as a community-driven effort, considering the crazy
+amount of time that goes into aggregating its vast and pretty coherent API and
+data sources. I’ve been one of the people who bootstrapped
+[mathematica.stackexchange.org][mathematica.stackexchange] during my studies,
+back then (and until this day) the best help resource for the program.
 
 ### Computer science
 
@@ -138,6 +147,13 @@ persistent and typically amortized applications.
 Although I’m interested in hardware and low-level programming, I could never
 bring myself to do anything serious in that domain. I don’t know much about CPUs
 beyond what one could build in Minecraft.
+
+Sparked by advanced Haskell, I learned about category theory, and was utterly
+disappointed by the return on investment. There that are equally challenging to
+me, but much more fruitful both in terms of practice and follow-up ideas enabled
+by it. The only thing understanding a monad from the math perspective taught me
+is respect for those who recognized their practical relevance around 25 years
+ago.
 
 ### Programming style
 
@@ -159,11 +175,7 @@ I have never seen code that both was and was called »self-documenting«. I thin
 code should consist of excellent code with good documentation and tasteful use
 of types.
 
-I think Robert C. Martin AKA »Uncle Bob« is an idiot, since most things he said
-in the last couple of years make me angry, most notably »typing is overrated,
-write tests by hand instead«. I haven’t been around in pre-Clean-Code days, but
-in my experience the book lists either the obvious (don’t write god objects) or
-the wrong (don’t use comments because they might go out of date).
+Everything Robert C. Martin makes me angry. I’ll spare you the rant.
 
 
 
@@ -239,6 +251,7 @@ either, but I occasionally enjoy it nonetheless.
 [amp]: https://wiki.haskell.org/Functor-Applicative-Monad_Proposal
 [existentialcomics]: http://existentialcomics.com/
 [haskell.org]: https://www.haskell.org/
+[mathematica.stackexchange]: https://mathematica.stackexchange.com/
 [mfp]: https://prime.haskell.org/wiki/Libraries/Proposals/MonadFail
 [quchen@facebook]: https://www.facebook.com/lupodavid
 [quchen@github]: https://github.com/quchen/
