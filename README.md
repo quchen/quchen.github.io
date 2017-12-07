@@ -234,10 +234,10 @@ regretted it, but not enough to abolish the rule.
 
 ## Other
 
-Driving through the Alps on my **motorcycle** is amazing. It’s a peculiar mix of
+Riding through the Alps on my **motorcycle** is amazing. It’s a peculiar mix of
 calm and remote nature and the challenge to tame a stupid amount of power. I
-don’t ever do anything seriously illegal with it though, since I can’t drive
-anymore when I lose my license or kill myself.
+don’t ever do anything seriously illegal with it though, since I can’t ride
+anymore when I lose my license or life.
 
 **Typography** is a domain of beautiful detail and rich history, but most people
 don’t know about it, and fewer yet appreciate it.
