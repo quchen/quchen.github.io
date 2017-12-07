@@ -1,7 +1,7 @@
-Hello.
+I’m David Luposchainsky, and this site is my public online ID card.
 
-I’m David Luposchainsky, known as »quchen« in most online communities, or  as
-»blackout« in online games. This simple site aggregates various things about me.
+I’m probably better known as »quchen« in most online communities, or
+occasionally as »blackout« in online games.
 
 - **Email** dluposchainsky at the service of Google. PGP keys available on
   [Keybase][quchen@keybase]
@@ -36,11 +36,12 @@ years, with individuals switching projects every 1-2 years.
 
 To keep employees happy and passionate, we spend a huge amount of money on
 education. I get to fly on conferences for free as much as I want, every other
-Friday we’re allowed to pretty much do whatever we want as long as it’s vaguely
-technology related (playing foosball is not considered work, but sticking a
-camera and motors to a foosball table and writing an AI for automating it is),
-and pretty much everything under 250€ is ordered without questioning or delay.
-I’ve racked up (and read) quite a few books because of that.
+Friday we’re allowed to pretty much do whatever we want as long as it’s at least
+vaguely technology related (playing foosball is not considered work, but
+sticking a camera and motors to a foosball table and writing an AI for
+automating it is; I usually write Haskell), and everything under 250€ is ordered
+without questioning or delay. I’ve racked up (and read) quite a few books
+because of that.
 
 Overtime is fully compensated, I have 31.5 days off per year, I work around 41
 hours a week (contract demands 40), holidays carry over to the next year, and I
