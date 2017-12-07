@@ -1,8 +1,7 @@
 Hello.
 
-I’m David Luposchainsky, known as »quchen« in most online communities, or using
-as »blackout« in online games. This simple site aggregates various things about
-me.
+I’m David Luposchainsky, known as »quchen« in most online communities, or  as
+»blackout« in online games. This simple site aggregates various things about me.
 
 - **Email** dluposchainsky at the service of Google. PGP keys available on
   [Keybase][quchen@keybase]
