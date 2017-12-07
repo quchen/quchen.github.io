@@ -103,9 +103,10 @@ I think **Haskell** is the best language for developing everyday
 industrial-grade software, because I don’t have to think as much writing in it,
 allowing me to focus on the task at hand instead of battling with the language
 itself. Its support for refactoring even complex and poorly understood codebases
-is unparalleled, and I’ve seen nothing remotely close to it in any other
-language. I think Haskell has domains it’s poorly suited for by design and wish
-people would not try to make it work in those areas.
+is unparalleled, and the type system not only helps me avoid loads bugs, but is
+able to guide me towards a good solution as a sort of lab assistant. I think
+Haskell has domains it’s poorly suited for by design and wish people would not
+try to make it work in those areas.
 
 I think **PHP**, which I have used extensively, is an intellectual insult, and I
 have great disrespect for anyone evangelizing it.
@@ -115,7 +116,7 @@ interesting, and would like to learn more about it.
 
 I think **Rust** is an upgrade to the mess that **C++** is (the latter I’ve also
 used a lot), but unfortunately its type system is a huge price to pay.
-Syntax-wise it’s atrocious, but I’ve gotten used to C++ at one point, so I’m
+Syntax-wise it’s pretty ugly, but I’ve gotten used to C++ at one point, so I’m
 sure I’d be able to get used to Rust as well. It does combine many compelling
 features, so I’ve given it a couple of (superficial) shots already.
 
@@ -232,13 +233,15 @@ regretted it, but not enough to abolish the rule.
 
 ## Other
 
-Recurring interests of mine are typically things we have around us a lot, yet
-mostly go unnoticed.
+Driving through the Alps on my **motorcycle** is amazing. It’s a peculiar mix of
+calm and remote nature and the challenge to tame a stupid amount of power. I
+don’t ever do anything seriously illegal with it though, since I can’t drive
+anymore when I lose my license or kill myself.
 
-Typography is a domain of beautiful detail and rich history, but most people
+**Typography** is a domain of beautiful detail and rich history, but most people
 don’t know about it, and fewer yet appreciate it.
 
-Photography is similarly becoming a niche activity, since phone cameras
+**Photography** is similarly becoming a niche activity, since phone cameras
 commoditized taking pictures so much that it’s become difficult to justify
 walking around aimlessly looking for a good picture, much like I would find it a
 strange hobby if someone would just like to take the bus without really wanting
