@@ -45,13 +45,13 @@ because of that.
 
 Overtime is fully compensated, I have 31.5 days off per year, I work around 41
 hours a week (contract demands 40), holidays carry over to the next year, and I
-can live a comfortable live with my salary.
+can live a comfortable life with my salary.
 
 ## Education: Physics
 
 I’m a physicist by education, which I studied at the University of
-Würzburg/Germany (where Röntgen, the first Nobel lauretate) is from, and at
-Rutgers/USA, where I spent a year abroad.
+Würzburg/Germany (probably best known because Röntgen, the first Nobel
+lauretate, is from), and at Rutgers/New Jersey/USA, where I spent a year abroad.
 
 My Bachelor thesis was in experimental photoelectron spectroscopy (application:
 thin film solar cells) because I wanted to work with big, impressive, and loud
@@ -61,15 +61,15 @@ master thesis on non-equilibrium thermodynamics, where I studied spontaneous
 decreases of entropy, and entropy production in nonequilibrium systems.
 
 On my way, I developed an interest in pure mathematics, in particular in the
-field of differential geometry at the time. There interest is still there, but
-the mathematical domain has shifted a great amount to logic and type theory.
+field of differential geometry at the time. The interest is still there, but the
+domain has shifted a great amount to logic and type theory.
 
 ## No formal education: Programming and computer science
 
 I have no formal education in dealing with computers, programming and what have
 you. What I do have is a keen interest in it since around age 14, which lead me
-to self-teach me a lot over the years. More about this can be found in the
-»hobbies« section.
+to a long path of self-education over the years. More about this can be found in
+the »hobbies« section.
 
 
 
@@ -81,12 +81,14 @@ to self-teach me a lot over the years. More about this can be found in the
 
 I’m an expert in [Haskell][haskell.org], a purely functional programming
 language. I attained my knowledge from what I like to call IRC osmosis,
-attending and speaking at conferences, reading lots of papers, writing lots of
-code for fun, participating on the mailing lists, and organizing user groups.
+attending and [speaking][zurihac-stg] [at][haskellx-stg]
+[conferences][haskellx-io], reading papers, writing lots of code for fun,
+participating on the mailing lists, and organizing user groups.
 
 My arguably biggest achievements in Haskell are [changing a core part of the
 standard library][amp], and then [doing it again on a related, but different
-topic][mfp].
+topic][mfp]. This also established precedence for a now fairly popular and more
+importantly safe way to make breaking changes within the Haskell community.
 
 I’ve implemented [an interpreter for the lowest level intermediate
 representation most commonly in use][stgi] for fun and learning. I think
@@ -118,29 +120,29 @@ interesting, and would like to learn more about it.
 I think **Rust** is an upgrade to the mess that **C++** is (the latter I’ve also
 used a lot), but unfortunately its type system is a huge price to pay.
 Syntax-wise it’s pretty ugly, but I’ve gotten used to C++ at one point, so I’m
-sure I’d be able to get used to Rust as well. It does combine many compelling
+sure I’d be able to get used to Rust as well. It *does* combine many compelling
 features, so I’ve given it a couple of (superficial) shots already.
 
 I don’t really have an opinion about **Javascript**; given the original design
 goals, it’s a remarkably good language. The idea behind Node.js’ asynchronicity
-using callbacks (on the program level) is completely idiotic. The syntax is
-average (i.e. bad), but I found Coffeescript to be a very much readable dialect,
-although it hinders debugging a great amount.
+using callbacks from a single-threaded runtime is completely idiotic. The syntax
+is average (i.e. bad), but I found Coffeescript to be a very much readable
+dialect, although it hinders debugging a great amount.
 
 **Mathematica** is an amazing tool for data science (and a terrible programming
 language). It’s really a shame it’s closed source and proprietary, but it would
 probably be unsustainable as a community-driven effort, considering the crazy
 amount of time that goes into aggregating its vast and pretty coherent API and
-data sources. I’ve been one of the people who bootstrapped
+data sources. I’m one of the people who bootstrapped
 [mathematica.stackexchange.org][mathematica.stackexchange] during my studies,
-back then (and until this day) the best help resource for the program.
+back then (and to this day) the best help resource for the program.
 
 ### Computer science
 
-I’m interested in type theory, and a proponent of strong static types. I’m
-familiar with advanced languages like Agda, and I’ve read many books on the
-theory behind such languages. Their domains range from immediately practical to
-what people in ivory towers would consier ivory towery.
+I’m interested in type theory, and a very outspoken proponent of strong static
+types. I’m familiar with advanced languages like Agda, and I’ve read many books
+on the theory behind such languages. Their domains range from immediately
+practical to what people in ivory towers would consier ivory towery.
 
 I have a fairly broad, but not very deep knowledge of data structures and
 algorithms. Most things I know by heart are from the functional domain, i.e.
@@ -183,12 +185,11 @@ Everything Robert C. Martin makes me angry. I’ll spare you the rant.
 
 ## Philosophy
 
-I’m whatever the »I’m interested in science« analogon in philosophy kind of
-person is. I’m insterested in epistemology due to its connection to physics and
-logic, and ethics and morale due to its connection to everyday reality. I have
-not read many original texts, but lots of secondary works, mostly online. I
-think [Existential Comics][existentialcomics] is an amazing resource for
-appetizers to read up on.
+I’m interested in philosophy the same way others are »interested in science«. I
+like in epistemology due to its connection to physics and logic, and ethics and
+morale due to its connection to everyday reality. I have not read many original
+texts, but lots of secondary works, mostly online. I think [Existential
+Comics][existentialcomics] is an amazing resource for appetizers to read up on.
 
 
 
@@ -197,18 +198,22 @@ appetizers to read up on.
 ### Bouldering
 
 I like bouldering because it’s a very social individual sport, which gives me
-the best of all worlds: my achievements are solely based on my own abilities,
-but they are very easily shared and best enjoyed with like-minded people. Thanks
-to rock gyms, bouldering can be done with little time investment and at any time
-of the day and year. Bouldering outside typically involves camping with little
-luxury and interesting and ambitious people.
+the best of all worlds: my achievements are solely based on my own abilities and
+efforts, but they always happen within a group of people with a very supportive
+and non-competitive mindset – people typically fight the rock together. Rock
+gyms are excellent places to get to know a lot of people and make friends among
+them; thanks to rock gyms, bouldering can be done with little time investment
+and at any time of the day and year. Bouldering outside on the other hand
+typically involves camping with little luxury and interesting and ambitious
+people.
 
 Since I’ve long been on a personal plateau of projects in the Fb 7a/b difficulty
 range, I’ve recently started exercising. My goals are muscle up on rings, front
 lever on rings, handstand on solid ground, and finger strengh by hanging on the
 finger board a lot. These are just (symptoms of a) means to an end though, my
 open projects are Grit Deluxe (Magic Wood 7b), Supernova (Magic Wood 7c),
-Graviton (Fontainbleau 7a), and Rainbow Rocket (Fontainbleau 8a).
+Graviton (Fontainbleau/Roche aux Sabots 7a), and Rainbow Rocket
+(Fontainbleau/Isatis 8a).
 
 ### Gymnastics
 
@@ -240,7 +245,10 @@ don’t ever do anything seriously illegal with it though, since I can’t ride
 anymore when I lose my license or life.
 
 **Typography** is a domain of beautiful detail and rich history, but most people
-don’t know about it, and fewer yet appreciate it.
+don’t know about it, and fewer yet appreciate it. I like its subtlety, and that
+it changes our way of thinking about the written words all around us, because it
+brings an expressive, at times artistic component to otherwise fairly mundane
+objects.
 
 **Photography** is similarly becoming a niche activity, since phone cameras
 commoditized taking pictures so much that it’s become difficult to justify
@@ -255,6 +263,8 @@ either, but I occasionally enjoy it nonetheless.
 [amp]: https://wiki.haskell.org/Functor-Applicative-Monad_Proposal
 [existentialcomics]: http://existentialcomics.com/
 [haskell.org]: https://www.haskell.org/
+[haskellx-io]: https://skillsmatter.com/conferences/8522-haskell-exchange-2017#program
+[haskellx-stg]: https://skillsmatter.com/conferences/7276-haskell-exchange-2016#program
 [mathematica.stackexchange]: https://mathematica.stackexchange.com/
 [mfp]: https://prime.haskell.org/wiki/Libraries/Proposals/MonadFail
 [quchen@facebook]: https://www.facebook.com/lupodavid
@@ -264,3 +274,4 @@ either, but I occasionally enjoy it nonetheless.
 [quchen@twitter]: https://twitter.com/quch3n
 [stgi]: https://github.com/quchen/stgi/
 [tng]: https://www.tngtech.com/
+[zurihac-stg]: https://youtu.be/-MFk7PIKYsg
