@@ -35,17 +35,16 @@ enthusiastic programmers on client projects that typically last for multiple
 years, with individuals switching projects every 1-2 years.
 
 To keep employees happy and passionate, we spend a huge amount of money on
-education. I get to fly on conferences for free as much as I want, every other
-Friday we’re allowed to pretty much do whatever we want as long as it’s at least
-vaguely technology related (playing foosball is not considered work, but
-sticking a camera and motors to a foosball table and writing an AI for
-automating it is; I usually write Haskell), and everything under 250€ is ordered
-without questioning or delay. I’ve racked up (and read) quite a few books
-because of that.
+education. I get to fly on conferences as much as I want, every other Friday
+we’re allowed to pretty much do whatever we want as long as it’s at least
+vaguely technology related, and our lenient »stuff ordering« guideline is a
+staple of my bookshelf, ranging from quite readily applied to the highest of
+ivory towers.
 
-Overtime is fully compensated, I have 31.5 days off per year, I work around 41
-hours a week (contract demands 40), holidays carry over to the next year, and I
-can live a comfortable life with my salary.
+Overtime is compensated, I have 31.5 days off per year, I work around 41 hours a
+week (contract demands 40), holidays carry over to the next year, and I can live
+a comfortable life with my salary. And maybe best of all, I’ve never had to
+touch a tie, or suit, or shirt.
 
 ## Education: Physics
 
@@ -67,7 +66,7 @@ domain has shifted a great amount to logic and type theory.
 ## No formal education: Programming and computer science
 
 I have no formal education in dealing with computers, programming and what have
-you. What I do have is a keen interest in it since around age 14, which lead me
+you. What I do have is a keen interest in it since around age 14, which led me
 to a long path of self-education over the years. More about this can be found in
 the »hobbies« section.
 
@@ -207,13 +206,11 @@ and at any time of the day and year. Bouldering outside on the other hand
 typically involves camping with little luxury and interesting and ambitious
 people.
 
-Since I’ve long been on a personal plateau of projects in the Fb 7a/b difficulty
-range, I’ve recently started exercising. My goals are muscle up on rings, front
-lever on rings, handstand on solid ground, and finger strengh by hanging on the
-finger board a lot. These are just (symptoms of a) means to an end though, my
-open projects are Grit Deluxe (Magic Wood 7b), Supernova (Magic Wood 7c),
-Graviton (Fontainbleau/Roche aux Sabots 7a), and Rainbow Rocket
-(Fontainbleau/Isatis 8a).
+I’ve reached a plateau of Fb 7a/b difficulty, but I’m training a lot lately
+hoping to get a 7c one day. My current projects are Splatch (7b) and Air Sweden
+(7c) in Fontainbleau (at Élephant), and Grit Deluxe (7b) and Supernova (7c) in
+Magic Wood. Rainbow Rocket (8a, Fontainbleau) is a dream, but might be out of
+reach, but who knows!
 
 ### Gymnastics
 
@@ -221,6 +218,18 @@ I’ve started doing gymnastics again, which I haven’t done for six years. Som
 skills are still there, most are gone. Still, I enjoy the trampoline, and am
 having great fun exercising on rings, which are probably the most versatile
 training tool in general, and certainly the one with the most bang for the buck.
+Unfortunately, I’m very much terrible at them.
+
+### Calisthenics
+
+I recently started doing calisthenics, which is a form of urban body weight
+exercise done on »a playground for adults« typically done outdoors on a rack
+built for it, consisting of lots of metal rods to pull up and down on. The
+people there are very friendly, helpful and non-competitive, but work very hard
+on impressive skills such as the front lever or handstand variations. I’m making
+good progress on learning the handstand, but front lever and muscle up will keep
+me occupied for quite a bit longer – but it’s fun, and probably very beneficial
+to my bouldering, where strength is my number one, pardon the pun, weakness.
 
 ### Mountain biking
 
