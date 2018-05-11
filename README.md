@@ -1,7 +1,7 @@
 I’m David Luposchainsky, and this site is my public online ID card.
 
 I’m probably better known as »quchen« in most online communities, or
-occasionally as »blackout« in online games.
+occasionally as »blackout«.
 
 - **Email** dluposchainsky at the service of Google. PGP keys available on
   [Keybase][quchen@keybase]
