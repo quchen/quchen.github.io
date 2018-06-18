@@ -223,7 +223,11 @@ on learning the handstand, but front lever and muscle up will keep me occupied
 for quite a bit longer – but it’s fun, and probably very beneficial to my
 bouldering, where strength is my number one, pardon the pun, weakness.
 
-My long term goals are front lever, planche, and press to handstand.
+My long term goals are [front lever][frontlever], planche, and [press to handstand][press-to-handstand].
+
+[frontlever]: https://upload.wikimedia.org/wikipedia/commons/f/f9/John_Gill_-_Front_Lever_-_1962.JPG
+[planche]: https://upload.wikimedia.org/wikipedia/commons/b/ba/Planche.jpg
+[press-to-handstand]: https://youtu.be/gQG_s5y37gY?t=11s
 
 ### Gymnastics
 
