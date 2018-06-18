@@ -212,6 +212,19 @@ hoping to get a 7c one day. My current projects are Splatch (7b) and Air Sweden
 Magic Wood. Rainbow Rocket (8a, Fontainbleau) is a dream, but might be out of
 reach, but who knows!
 
+### Calisthenics
+
+I recently picked up calisthenics, which is a form of urban body weight exercise
+done on »a playground for adults« typically done outdoors on a rack built for
+it, consisting of lots of metal rods to pull up and down on. The people there
+are very friendly, helpful and non-competitive, but work very hard on impressive
+skills such as the front lever or handstand variations. I’m making good progress
+on learning the handstand, but front lever and muscle up will keep me occupied
+for quite a bit longer – but it’s fun, and probably very beneficial to my
+bouldering, where strength is my number one, pardon the pun, weakness.
+
+My long term goals are front lever, planche, and press to handstand.
+
 ### Gymnastics
 
 I’ve started doing gymnastics again, which I haven’t done for six years. Some
@@ -219,17 +232,6 @@ skills are still there, most are gone. Still, I enjoy the trampoline, and am
 having great fun exercising on rings, which are probably the most versatile
 training tool in general, and certainly the one with the most bang for the buck.
 Unfortunately, I’m very much terrible at them.
-
-### Calisthenics
-
-I recently started doing calisthenics, which is a form of urban body weight
-exercise done on »a playground for adults« typically done outdoors on a rack
-built for it, consisting of lots of metal rods to pull up and down on. The
-people there are very friendly, helpful and non-competitive, but work very hard
-on impressive skills such as the front lever or handstand variations. I’m making
-good progress on learning the handstand, but front lever and muscle up will keep
-me occupied for quite a bit longer – but it’s fun, and probably very beneficial
-to my bouldering, where strength is my number one, pardon the pun, weakness.
 
 ### Mountain biking
 
